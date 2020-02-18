@@ -44,7 +44,28 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
-    }
+    },
+    {
+        username: "father_of_BOY",
+        thumbnailUrl: 'https://vignette.wikia.nocookie.net/godofwar/images/e/e8/Norse_Kratos.png/revision/latest?cb=20181207151509',
+        imageUrl: 'https://images.unsplash.com/photo-1473160330398-3aa3dbdf3117?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80',
+        likes: 2500,
+        timestamp: "Dec 17th 2017, 12:42:40 pm",
+        comments: [
+            {
+                username: "father_of_BOY",
+                text: "Good stories have been told here"
+            },
+            {
+                username: "biancasaurus",
+                text: "Looks delicious!"
+            },
+            {
+                username: "martinseludo",
+                text: "Can't wait to try it!"
+            }
+        ]
+    },
 ];
 
 export default dummyData;
